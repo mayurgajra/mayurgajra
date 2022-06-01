@@ -23,7 +23,7 @@
 
 <br/>  
 
-### Some of my skills
+## Some of my skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -54,5 +54,11 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mayurgajra&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+## Anthem
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31mkkut3rgmdvjqqmoxremzsmxxq&cover_image=true&theme=default" /></div>  
 
 <br/>  
