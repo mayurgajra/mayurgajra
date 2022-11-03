@@ -6,13 +6,13 @@
 ### <div align="center">I'm Mayur, a passionate Android developer 👨‍💻 working on "desserts" since 2017 🥧</div>  
   
 
-- 🔭 I’m currently working on [Tawk.to](https://play.google.com/store/apps/details?id=to.tawk.android)  
+- 🔭 I’m currently working on [Qardio](https://play.google.com/store/apps/details?id=com.getqardio.android&gl=NL)  
   
 
-- 🌱 Learning Jetpack compose, Ktor since last year  
+- 🌱 Learning BLE and have explored Jetpack compose, Ktor since April 2021  
   
 
-- 📖 Currently Reading [Building Mobile Apps at Scale](https://www.goodreads.com/en/book/show/57668267-building-mobile-apps-at-scale)  
+- 📖 Currently Reading [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)  
   
 
 - ⚡In my free time i like to contribute to StackOverflow  ➡️ [mayurgajra](https://stackoverflow.com/users/9715339/mayur-gajra)  
