@@ -12,8 +12,8 @@
 - 🌱 Learning BLE and have explored Jetpack compose, Ktor since April 2021  
   
 
-- 📖 Currently Reading [Why Nations Fail]([https://www.goodreads.com/book/show/40121378-atomic-habits](https://www.goodreads.com/book/show/12158480-why-nations-fail))  
-  
+- 📖 Currently Reading [Why Nations Fail](https://www.goodreads.com/book/show/40121378-atomic-habits](https://www.goodreads.com/book/show/12158480-why-nations-fail)
+
 
 - ⚡In my free time i like to contribute to StackOverflow  ➡️ [mayurgajra](https://stackoverflow.com/users/9715339/mayur-gajra)  
 - ✉️ For Professional queries : contact@mayurgajra.com
